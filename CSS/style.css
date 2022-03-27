@@ -1,0 +1,142 @@
+*{
+
+    font-family: 'Times New Roman';
+    font-size: 100%;
+    margin: 0;
+    padding: auto;
+    
+   
+}
+ 
+#banner-section{
+    height: 400%;
+    width: 100%;
+    border-width: 100vh;
+    background-color:#FCFE94;
+    text-align: left;
+    padding: auto;
+    font-family: 'Times New Roman';
+}
+box-section{
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman';
+    background-color: #FCFE94;
+    text-align: left;
+   
+}
+ 
+.box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 50px;
+    background-color: #ffff;
+    border-radius: 4px;
+    box-shadow: 10px 10px 10px 10px #FFFF33;
+    display: flex;
+    margin-top: auto;
+    padding-top:auto;
+     color:#808080;
+    text-align: start;
+    font-family: 'Times New Roman';
+
+} 
+section{
+    width: 100vh;
+    height: 90vh;
+    border-width: 90vh;
+    padding: auto;
+    font-family: 'Times New Roman';
+    background-color: #FCFE94;
+    background-size: 100%;
+}
+
+ 
+#Skills{
+background-color: #C1DEAE;
+width: 100%;
+float: right;
+height: 100vh;
+margin-left: 23px;
+padding: 10px;
+font-weight: bold;
+font-size: large;
+ 
+}
+#Edu-Background{
+background-color: #FCFE94;
+width: 100%;
+float: right;
+height: 100vh;
+margin-left: 23px;
+padding: 10px;
+font-weight: bold;
+font-size: large;
+ 
+}
+#Experiences{
+background-color: #C1DEAE;
+width: 100%;
+float: right;
+height: 100vh;
+margin-left: 23px;
+padding: 10px;
+font-weight: bold;
+font-size: large;
+ 
+}
+#Projects{
+background-color: #FCFE94;
+width: 100%;
+float: right;
+height: 100vh;
+margin-left: 23px;
+padding: 10px;
+font-weight: bold;
+font-size: large;
+ 
+}
+#Updates{
+background-color: #C1DEAE;
+width: 100%;
+float: right;
+height: 100vh;
+margin-left: 23px;
+padding: 10px;
+font-weight: bold;
+font-size: large;
+ 
+}
+#languages{
+    background-color: #FCFE94;
+    width: 100%;
+    float: right;
+    height: 100vh;
+    margin-left: 23px;
+    padding: 10px;
+    
+}    
+#h1-section{
+    margin: auto;
+    padding-top:auto;
+    padding-left:auto;
+     color:#808080;
+    font-family: 'Times New Roman';
+  
+}
+
+.social-icon{
+    color: #009900;
+    transition: color 0.2s;
+    text-decoration: none;
+    margin: 10% 10%;
+    padding: 0px;
+}
+.social-icon:hover{
+    color: #FFFF33;
+}
+
+
+ 
